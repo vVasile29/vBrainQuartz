@@ -1,5 +1,5 @@
 
-> [!TLDR]+
+> [!TLDR]-
 > **Software Architecture:**
 >     
 > - Focuses on creating _maintainable_ and _extensible_ software.

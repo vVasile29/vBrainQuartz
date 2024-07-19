@@ -9,3 +9,5 @@
 ## [[SA Zusammenfassung - 5 Classic CBSE & SOA Technologies]]
 
 ## [[SA Zusammenfassung - 6 Microservice Architecture]]
+
+# [[SA Zusammenfassung - 7 Cloud Computing]]

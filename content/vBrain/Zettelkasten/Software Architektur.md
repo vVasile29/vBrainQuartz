@@ -10,4 +10,6 @@
 
 ## [[SA Zusammenfassung - 6 Microservice Architecture]]
 
-# [[SA Zusammenfassung - 7 Cloud Computing]]
+## [[SA Zusammenfassung - 7 Cloud Native and Serverless Computing]]
+
+## [[SA Zusammenfassung - 8 Scaling Databases]]

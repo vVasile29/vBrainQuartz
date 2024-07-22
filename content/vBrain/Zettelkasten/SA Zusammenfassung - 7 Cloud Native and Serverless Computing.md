@@ -1,4 +1,29 @@
 
+## Cloud Computing
+
+
+> [!info] Definition
+> On-demand provisioning of data center resources over the internet
+> → SaaS + Utility Computing ("Pay-as-you-go")
+
+- On-demand self-serice
+- broad network access
+- resource pooling (shared pool)
+- rapid elasticity
+- measured service
+
+![[Pasted image 20240722134905.png]]
+
+> [!tip] Elasticity
+> The degree to which a system is able to adapt to workload changes by provisioning/deprovisioning resoures in an automatic manner such that at each point in time: ==available resources = current demand==
+
+### Cloud-Native Architecture
+
+- modern software applications are often microservices developed based on DevOps Paradigm and deployed in cloud environments
+	- DevOps with CI/CD Processes
+	- API-driven, Service-based architectures
+	- Container-based infrastructure
+
 ## Serverless Computing
 
 > [!info] Definition

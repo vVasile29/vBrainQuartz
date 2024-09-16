@@ -240,10 +240,10 @@ and add the account to speedport ip router for dynamic ip updates
 > [!NOTE]
 > → this will be repeated for all new docker containers and will be accessible via `<container>.vasile.digital`:
 > 
-> - pi.vasile.digital
-> - games.vasile.digital
-> - portainer.vasile.digital
-> - npm.vasile.digital
+> - https://pi.vasile.digital/
+> - https://games.vasile.digital/
+> - https://portainer.vasile.digital/
+> - https://npm.vasile.digital/
 
 ## Portainer
 
